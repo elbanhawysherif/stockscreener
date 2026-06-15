@@ -31,7 +31,7 @@ def get_universe(key):
 
         symbols.append(symbol)
 
-    return symbols[:50]
+    return symbols[:20]
 
 
 # -----------------------------
